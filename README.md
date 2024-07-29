@@ -2,8 +2,8 @@
 👨🏻‍💻 Studying Software Engineering at the University of Las Palmas de Gran Canaria, Spain.
 
 
-
 ![Arhamis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArhamisGC&show_icons=true&theme=radical)
+
 <!--
 **ArhamisGC/ArhamisGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
