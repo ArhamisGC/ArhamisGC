@@ -1,5 +1,8 @@
 # 💫 About Me:
 👨🏻‍💻 Studying Computer Engineering at the University of Las Palmas de Gran Canaria, Spain.<br>
+🌱 Learning about artificial intelligence, fullstack development, and cybersecurity.<br>
+🔭 Appassionate of physics and the universe.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamisGC&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
