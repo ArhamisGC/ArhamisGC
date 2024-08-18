@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨🏻‍💻 Studying Computer Engineering at the University of Las Palmas de Gran Canaria, Spain.<br>
-🌱 Learning about artificial intelligence, fullstack development, and cybersecurity.<br>
+🌱 Learning about fullstack development, artificial intelligence and cybersecurity.<br>
 🔭 Appassionate of physics and the universe.
 
 
